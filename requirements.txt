@@ -1,0 +1,12 @@
+matplotlib
+numpy
+opencv-python
+os
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+time
+torch
+torchvision
